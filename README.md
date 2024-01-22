@@ -1,6 +1,2 @@
 # Data-Science-Salaries-Project
-Python project analyzing data science salaries dataset.
-o UtilizedMatplotlibandSeabornfordatavisualization.
-o CleanedandprepareddatausingNumpyandPandas.
-o Developedpredictivemodels(LogisticRegression,RandomForestwithPCA)topredictsalaryrange
-based on variables like experience and company size.
+Python project analyzing data science salaries dataset researching what type of company seems to pay the best and what type of careers seem of pay the best. Utilized Matplotlib and Seaborn packages for data visualization.Cleaned and prepared data using Numpy and Pandas packages. Developed predictive models (Logistic Regression,Random Forest with PCA) to predict salary range based on variables such as experience and company size.
